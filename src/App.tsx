@@ -86,7 +86,7 @@ function App() {
   };
 
   return (
-    <div className="flex flex-col items-center bg-gray-100 min-h-screen p-4">
+    <div className="flex flex-col items-center bg-gray-100 min-h-screen p-4 overflow-hidden">
       <div className="max-w-2xl w-full bg-white rounded-lg shadow-lg flex flex-col h-[80vh]">
         <h1 className="text-2xl font-bold text-gray-800 p-4 text-center border-b">
           Ask Me Anything
