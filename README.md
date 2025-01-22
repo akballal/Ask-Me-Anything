@@ -2,9 +2,9 @@
 Ask Me Anything is a dynamic and engaging web application where users can post questions and receive answers from the community. This project is built with cutting-edge technologies to ensure a seamless and interactive experience.
 
 ## 🛠️ Tech Stack
-Vite
-React
-Tailwind CSS
+* Vite
+* React
+* Tailwind CSS
 
 ## 🚀 Installation and Setup
 Follow these steps to set up the project locally:
@@ -22,7 +22,7 @@ pnpm install
 ```bash
 pnpm run dev
 ```
-4. Open your browser and navigate to: http://localhost:5173
+Visit http://localhost:5173 to see the app in action.
 
 
 
